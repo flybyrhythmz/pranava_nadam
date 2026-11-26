@@ -95,7 +95,3 @@ Simply open `index.html` in any modern desktop or mobile browser (Chrome, Edge, 
 - **Lucide Icons**
 
 ---
-
-## License
-
-MIT License — free to use, customize, and share with attribution.
